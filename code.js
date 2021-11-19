@@ -1,3 +1,4 @@
+LINK: https://code.earthengine.google.com/6968dfdedb3d08bc565fe7d358a7726f
 /*
 var distrito = table.filter(ee.Filter.eq("DISTRITO","CHUGUR"));
 Map.addLayer(distrito, {color: 'red'}, 'Distrito')
