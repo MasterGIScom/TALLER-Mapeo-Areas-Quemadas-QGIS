@@ -1,0 +1,1 @@
+# TALLER-Mapeo-Areas-Quemadas-QGIS
